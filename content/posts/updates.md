@@ -1,6 +1,8 @@
-+++ title = "Updates" 
-date = "2024-06-03" 
-[taxodomies] tags = ["new page"] 
++++
+title = "Updates"
+date = "2024-06-20"
+[taxodomies]
+tags = ["new page"]
 +++
 
 # Updates
