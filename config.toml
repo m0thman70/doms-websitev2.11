@@ -70,13 +70,9 @@ copyright = true
 stack = true
 
 [extra.social]
-email = "dominiksarnowicz@proton.me"
-mastodon = "mastodon.social/@m0th05"
 codeberg = "m0thman70"
 github = "m0thman70"
-instagram = "m0th05"
 lastfm = "m0th05"
-twitch = "m0th005"
 
 [extra.comments]
 system = "none"
